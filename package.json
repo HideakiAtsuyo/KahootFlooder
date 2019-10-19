@@ -1,0 +1,15 @@
+{
+  "name": "kahootflooder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kahoot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dany",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "kahoot.js-updated": "^1.1.7"
+  }
+}
