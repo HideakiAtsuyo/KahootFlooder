@@ -1,7 +1,6 @@
 # Modules
 
-kahoot.js-updated
-colors
+kahoot.js-updated<br>colors
 
 # Installation des modules
 
