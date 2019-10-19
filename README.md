@@ -10,6 +10,10 @@ npm i --save "module"<br><br>npm i --save kahoot.js-updated<br>npm i --save colo
 
 [ICI](https://www.youtube.com/watch?v=x8YlhfgFFZA)
 
+# Utilisation
+
+node kahoot.js "pin" "nombre de bots"<br<Exemple:<br>node kahoot.js 123456 150
+
 
 ==================================================
 
