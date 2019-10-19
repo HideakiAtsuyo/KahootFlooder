@@ -1,12 +1,12 @@
 # Modules
 
-
 kahoot.js-updated
 colors
 
 # Installation des modules
 
-npm i --save "module"
+npm i --save "module"<br><br>npm i --save kahoot.js-updated<br>npm i --save colors
 
+# Vidéo
 
-npm i --save kahoot.js-updated<br>npm i --save colors
+[ICI](https://www.youtube.com/watch?v=x8YlhfgFFZA)
