@@ -6,7 +6,7 @@ colors
 
 # Installation des modules
 
-npm i --save <module>
+npm i --save "module"
 
 
 npm i --save kahoot.js-updated
