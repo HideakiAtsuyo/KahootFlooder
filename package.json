@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dany-LF/KahootFlooder/"
+    "url": "https://github.com/HideakiAtsuyo/KahootFlooder/"
   },
-  "author": "Dany-LF",
+  "author": "HideakiAtsuyo",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
