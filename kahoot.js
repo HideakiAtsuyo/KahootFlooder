@@ -1,10 +1,10 @@
-//YouTube: Dany
+//YouTube: Hideaki Atsuyo
 //https://www.youtube.com/channel/UCrErtqJnvWiz9FEKYTTpFUg?sub_confirmation=1
 
 var Kahoot = require("kahoot.js-updated");
 var colors = require("colors");
 
-var p = "YouTube: Dany"
+var p = "YouTube: Hideaki Atsuyo"
 
 if(process.argv.length <= 2) {//Si l'argument 2 est vide
 	console.log("Utilisation: node kahoot.js <pin> <nombre de bots>".green);
